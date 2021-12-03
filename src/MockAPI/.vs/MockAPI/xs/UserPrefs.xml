@@ -1,13 +1,20 @@
 ﻿<Properties StartupConfiguration="{F5788280-EFFA-4859-92F2-A158E63A4FDD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CustomerDataConrollerController.cs" Line="8" Column="30" />
+      <File FileName="WeatherForecast (copy).cs" Line="8" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MockAPI" expanded="True">
             <Node name="MockAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
